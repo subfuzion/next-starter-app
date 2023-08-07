@@ -1,0 +1,11 @@
+# https://help.github.com/articles/ignoring-files/
+
+build/
+coverage/
+node_modules/
+.env
+
+# next.js
+.next/
+.env*.local
+next-env.d.ts
