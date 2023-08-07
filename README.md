@@ -1,7 +1,9 @@
 # Overview
 
-This is a starter Next.js app configured for TypeScript. The app is generated
-using [@subfuzion/create-next-app].
+This is a starter Next.js app configured for TypeScript with Docker support
+for deploying to your own server or containerized cloud environment.
+
+The app is generated using [@subfuzion/create-next-app].
 
 Configuration boilerplate includes:
 
