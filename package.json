@@ -11,11 +11,6 @@
         "lint:fix": "npm run lint -- --fix ."
     },
     "dependencies": {
-        "next": "13.4.11",
-        "react": "18.2.0",
-        "react-dom": "18.2.0"
-    },
-    "devDependencies": {
         "@tsconfig/next": "^2.0.0",
         "@tsconfig/node20": "^20.1.1",
         "@tsconfig/recommended": "^1.0.2",
@@ -27,8 +22,11 @@
         "eslint-config-next": "^13.4.13",
         "eslint-config-prettier": "^9.0.0",
         "eslint-plugin-prettier": "^5.0.0",
+        "next": "13.4.11",
         "postcss": "8.4.27",
         "prettier": "^3.0.1",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
         "tailwindcss": "3.3.3",
         "typescript": "5.1.6"
     }
